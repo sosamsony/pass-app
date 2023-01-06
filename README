@@ -1,0 +1,13 @@
+To execute the code and tests for the transportation itinerary project, follow these steps:
+
+Download or clone the project repository onto your local machine.
+Open the index.html file in a web browser.
+The itinerary should be displayed on the page.
+To modify the code or run tests, you will need to have a development environment set up with a text editor and a JavaScript runtime. Here are the additional steps you will need to take:
+
+Open the main.js file in a text editor.
+Make any desired changes to the code.
+Save the file.
+Refresh the index.html page in the browser to see the updated code.
+To run tests, you will need to set up a testing framework (such as Jest) and write test cases for the sortBoardingPasses and buildItinerary functions. Consult the documentation for your chosen testing framework for more information on how to do this.
+I hope this helps! Let me know if you have any additional questions.
