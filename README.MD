@@ -11,7 +11,7 @@
 
 ## <a name="A"> </a>A
 
-- [Amazon Pay v2 Ruby SDK](https://github.com/bytenaija/amazon-pay-sdk-ruby) - An SDk that makes it easy to integrate amazon pay checkout and instore v2 clients in your ruby/ruby on rails projects. **By [@sosamsony](https://twitter.com/sosamsony)**
+- [Amazon Pay v2 Ruby SDK](https://github.com/sosamsony/pass-app) - An SDk that makes it easy to integrate amazon pay checkout and instore v2 clients in your ruby/ruby on rails projects. **By [@sosamsony](https://twitter.com/sosamsony)**
 - [Angular-tag](https://github.com/theo4u/angular-tag) - Tags input directive for AngularJS. **By [@theo4me](https://twitter.com/theo4me)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Angular2-Sails-starter-pack](https://github.com/Mozartted/Angular2-Sails-starter-pack) - A starter pack for angular2 based projects using sails backend, integrating hot reload functionalities. **By [@mozartted](https://twitter.com/mozartted)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Angular4-paystack](https://github.com/ashinzekene/angular4-paystack) - This is an angular module that abstracts the complexity of making paystack payments with Angular2+. **By [@ashinzekene](https://twitter.com/ashinzekene)**
