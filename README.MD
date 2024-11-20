@@ -11,7 +11,6 @@
 
 ## <a name="A"> </a>A
 
-- [Alix](https://github.com/ireade/alix) - Alix, a Chrome extension for a11y.css. **By [@ireaderinokun](https://twitter.com/ireaderinokun)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Altair](https://github.com/altair-graphql/altair) - A sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a Chrome extension. **By [@imolorhe](https://twitter.com/imolorhe)**
 
 ## <a name="B"> </a>B
