@@ -11,18 +11,7 @@
 
 ## <a name="A"> </a>A
 
-- [Adonis Auth Scaffold](https://github.com/creatrixity/adonis-auth-scaffold) - Seamlessly scaffold a ready-to-use authentication system for your Adonis app with one neat command. **By [@creatrixity](https://twitter.com/creatrixity)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Adonis Hexa](https://github.com/creatrixity/adonis-hexa) - An opinionated software development framework for maintaining a scalable Adonis application. **By [@creatrixity](https://twitter.com/creatrixity)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Adonis Queue](https://github.com/stitchng/adonis-queue) - An addon/plugin package to provide driver-based job queueing services in AdonisJS 4.0+. **By [@isocroft](https://twitter.com/isocroft)**
-- [adonis-sse](https://github.com/stitchng/adonis-sse) - An addon/plugin package to provide server-sent events functionality for AdonisJS 4.0+. **By [@isocroft](https://twitter.com/isocroft)**
-- [Adonis Stripe](https://github.com/mezielabs/adonis-stripe) - This package makes it seamless to work with Stripe in AdonisJS 5 applications. **By [@ammezie](https://twitter.com/ammezie)**
-- [Alix](https://github.com/ireade/alix) - Alix, a Chrome extension for a11y.css. **By [@ireaderinokun](https://twitter.com/ireaderinokun)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Altair](https://github.com/altair-graphql/altair) - A sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a Chrome extension. **By [@imolorhe](https://twitter.com/imolorhe)**
-- [Amazon Pay v2 Ruby SDK](https://github.com/bytenaija/amazon-pay-sdk-ruby) - An SDk that makes it easy to integrate amazon pay checkout and instore v2 clients in your ruby/ruby on rails projects. **By [@bytenaija](https://twitter.com/bytenaija)**
-- [Angular-tag](https://github.com/theo4u/angular-tag) - Tags input directive for AngularJS. **By [@theo4me](https://twitter.com/theo4me)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Angular2-Sails-starter-pack](https://github.com/Mozartted/Angular2-Sails-starter-pack) - A starter pack for angular2 based projects using sails backend, integrating hot reload functionalities. **By [@mozartted](https://twitter.com/mozartted)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Angular4-paystack](https://github.com/ashinzekene/angular4-paystack) - This is an angular module that abstracts the complexity of making paystack payments with Angular2+. **By [@ashinzekene](https://twitter.com/ashinzekene)**
-- [AnimatedCountTextView](https://github.com/r4sh33d/AnimatedCountTextView) - A library that helps you animate change in numeric values in an Android TextView. **By [@srasheed](https://twitter.com/srasheed_)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
+
 - [AppFramer](https://github.com/olucurious/AppFramer) - AppFramer helps to put your app screenshots in beautiful device frames with annotations by running a simple command. **By [@olucurious](https://twitter.com/olucurious)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [APX](https://github.com/othreecodes/APX) - A Javafx Library for building MVC Applications. **By [@othreecodes](https://twitter.com/othreecodes)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
 - [Article Idea Generator](https://github.com/Olanetsoft/article-idea-generator) - This simple tool generates article ideas and abstract drafts for your blog or website. It's a great way to get started with your content marketing strategy. **By [@olanetsoft](https://twitter.com/olanetsoft)**
@@ -33,31 +22,11 @@
 
 - [BàngáJS](https://github.com/bangajs/banga-cli) - A CLI generator for bootstrapping ExpressJS applications and generating application layer files. **By [@saucecodee](https://twitter.com/saucecodee)**
 - [Blackmaria](https://github.com/Smyja/blackmaria) - A Python package for webscraping in Natural language. **By [@ogbonigwe1](https://twitter.com/ogbonigwe1)**
-- [Blink Alert](https://github.com/obayomi96/blinkalert) - A Chrome Extension for 20-20-20 exercise of the eye. **By [@martinsobayomi](https://twitter.com/martinsobayomi)**
-- [Bloc Node](https://github.com/D-Lite/bloc-node) - The first Bloc API wrapper 🚀🚀🚀 The Bloc-Node library provides convenient access to the Bloc API. **By [@danielolabemiwo](https://twitter.com/danielolabemiwo)**
-- [Bob](https://github.com/stephenafamo/bob) - SQL Query Builder for Go that can be progressively adopted from raw SQL query strings, to fully typed queries and models generated for your database. **By [@stephenafamo](https://twitter.com/stephenafamo)**
-- [Breadcrumb For Codeigniter](https://github.com/iamuchejude/Breadcrumb-for-Codeigniter) - A Lightweight Library for generating Breadcrumb in Codeigniter. **By [@iamuchejude](https://twitter.com/iamuchejude)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Broad-state](https://github.com/adenekan41/broadstate) - Easy state manager for state values from one component to the other with useState and React Hooks in < 1KB! **By [@codewonders](https://twitter.com/code_wonders)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Browsengine](https://github.com/isocroft/browsengine) - Rendering Engine Detection Script for Browsers on Any Device. **By [@isocroft](https://twitter.com/isocroft)**
-- [Busser](https://github.com/codesplinta/busser) - A robust, opinionated, state management option for scalable and precise communication across ReactJS Components. **By [@isocroft](https://twitter.com/isocroft)**
-- [Button4Android](https://github.com/tdscientist/button4Android) - Android button selector generator. **By [@tdscientist](https://twitter.com/tdscientist)**
 - [Buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper. **By [@chidiwilliams\_](https://twitter.com/@chidiwilliams_)**
 
 ## <a name="C"> </a>C
 
 - [C# Permutation](https://github.com/Oziomajnr/C--Permutation) - A library for permutating C# objects. **By [@oziomajnr](https://twitter.com/Oziomajnr) & [@mykeels](https://twitter.com/mykeels)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [caddy-docker](https://github.com/abiosoft/caddy-docker) - Docker image for Caddy web server. **By [@abiosoft](https://twitter.com/abiosoft)**
-- [caddy-git](https://github.com/abiosoft/caddy-git) - Git plugin for Caddy web server. **By [@abiosoft](https://twitter.com/abiosoft)**<span style="color: red; font-weight: 700;"> | 🏁 Inactive </span>
-- [Caniuse-embed](https://github.com/ireade/caniuse-embed) - The (unofficial) embed for caniuse. **By [@ireaderinokun](https://twitter.com/ireaderinokun)**
-- [Cartie](https://github.com/LPMatrix/cartie) - A clean shopping cart implementation for Laravel. **By [@LPMatrix](https://twitter.com/WeirdMatrix)**
-- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Simple, modular and accessible component library for React applications. **By [@thesegunadebayo](https://twitter.com/thesegunadebayo)**
-- [chocotea](https://github.com/cleopatra27/chocotea) - A library that generates postman collection an integration tests from java code. **By [@succedor23](https://twitter.com/succedor23)**
-- [ci-toastr](https://github.com/joshuachinemezu/ci-toastr) - Codeigniter package for integrating javascript toastr into your web applications. **By [@joshuachinemezu](https://twitter.com/joshuachinemezu)**<span style="color: red; font-weight: 700;"> | 🏁 Deprecated </span>
-- [ClassroomIO](https://github.com/rotimi-best/classroomio) - Meet a better collaboration tool for teachers and students. ClassroomIO is a no-code tool that allows you build and scale your own teaching platform with ease. **By [@rotimi-best](https://twitter.com/rotimi-best)**
-- [Client_manager](https://github.com/timigod/client_manager) - API Client Manager is a mountable Rails (engine) gem that helps identify and authenticate your API clients' requests. **By [@timigod](https://twitter.com/timigod)**<span style="color: red; font-weight: 700;"> | 🏁 Deprecated </span>
-- [Cogent PHP](https://github.com/wilforlan/CogentPHP) - A Simple PHP MVC Framework for Fast and Minimal Applications. **By [@wilforlan](https://twitter.com/wilforlan)**<span style="color: red; font-weight: 700;"> | 🏁 Deprecated </span>
-- [Composer-git-hook](https://github.com/BrainMaestro/composer-git-hooks) - Easily manage git hooks in your composer config. **By [@BrainMaestro](https://twitter.com/BrainMaestro)**
-- [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) - A simple, customizable view for efficiently collecting country information in iOS apps. **By [@kizitonwose](https://github.com/kizitonwose/CountryPickerView)**
 - [csv49](https://github.com/stigwue/csv49) - Comma Separated Values For Nigeria. **Maintained by [@stigwue](https://github.com/stigwue)**
 
 ## <a name="D"> </a>D
